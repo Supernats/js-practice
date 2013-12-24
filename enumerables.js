@@ -51,4 +51,6 @@ var stuff = myInject([1,2,3], function(sum, accum) {
   return sum + accum;
 });
 
-console.log(stuff);
+// console.log(stuff);
+
+
